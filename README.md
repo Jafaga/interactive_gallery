@@ -1,1 +1,1 @@
-this is my code
+Welcome to our interactive gallery project
